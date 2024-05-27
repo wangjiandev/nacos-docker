@@ -1,0 +1,8 @@
+2024-05-27 17:17:51,824 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2024-05-27 17:17:51,826 DEBUG access denied, request: GET /nacos/v1/cs/configs, reason: user not found!
+
+2024-05-27 17:17:59,399 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2024-05-27 17:17:59,409 DEBUG auth permission: Permission{resource='Resource{namespaceId='', group='', name='', type='config', properties={action=r}}', action='r'}, nacosUser: NacosUser{token='eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTcxNjgxOTQ3OX0.XL1Gu__itvfsY49s3vOF5u8SZT4UfPARkrDntYv5wkSfm6Hj57Hn7rRv7p6BW31U', globalAdmin=false}
+
